@@ -1,0 +1,20 @@
+# Database configuration
+hospital/hms/include/config.php
+
+# Sensitive files
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Vendor dependencies (if using composer)
+vendor/
+
+# Temporary files
+*.tmp
+*.bak
